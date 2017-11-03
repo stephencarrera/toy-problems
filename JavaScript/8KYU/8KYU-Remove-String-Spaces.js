@@ -6,6 +6,4 @@
 
 // Solution:
 
-function noSpace(x) {
-  return x.replace(/\s+/g, "");
-}
+const noSpace = str => str.replace(/\s+/g, "");
