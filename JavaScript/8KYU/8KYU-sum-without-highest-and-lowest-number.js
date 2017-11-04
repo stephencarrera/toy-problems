@@ -24,10 +24,10 @@ I have created other katas. Have a look if you like coding and challenges.
 
 */
 
-function sumArray(array) {
+const sumArray = array => {
   array = array || [];
   return array
     .sort((a, b) => a - b)
     .slice(1, -1)
     .reduce((sum, num) => sum + num, 0);
-}
+};
