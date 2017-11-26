@@ -1,4 +1,4 @@
-# [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/SQL.png)](SQL/SQL.md) SQL
+# [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/sql.png)](SQL/SQL.md) SQL
 
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [Beta](#BETA)
 

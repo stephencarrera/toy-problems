@@ -6,4 +6,4 @@
 
 ## [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/python.png)](Python/Python.md) [Python Solutions](Python/Python.md)
 
-## [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/sql.png)](SQL/SQL.md) [SQL Solutions](SQL/DQL)
+## [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/sql.png)](SQL/SQL.md) [SQL Solutions](SQL/SQL.md)
