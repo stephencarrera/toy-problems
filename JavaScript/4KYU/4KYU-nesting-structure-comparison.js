@@ -68,9 +68,9 @@ Test.expect(![].sameStructureAs({}), '[] not same as {}');
 
 /*
 Interesting solution
-*/
+
 Array.prototype.sameStructureAs = function(other) {
-  let ret = Array.isArray(other) && other.length == this.length;
+  let ret = Array.isArray(other) && other.length === this.length;
 
   for (let i = 0; ret && i < this.length; ++i) {
     const a = this[i];
@@ -82,4 +82,4 @@ Array.prototype.sameStructureAs = function(other) {
   return ret;
 };
 
-// */
+*/
