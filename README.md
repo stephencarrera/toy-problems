@@ -1,6 +1,6 @@
-# [Codewars](www.codewars.com/r/cCBzqg)
+# [Codewars](https://www.codewars.com/r/cCBzqg)
 
-[![CodeWars](https://www.codewars.com/users/stephencarrera/badges/large)](https://www.codewars.com/users/stephencarrera "My Honor Badge")
+[![CodeWars](https://www.codewars.com/users/stephencarrera/badges/large)](https://www.codewars.com/users/stephencarrera 'My Honor Badge')
 
 ## [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/javascript.png)](JavaScript/JavaScript.md) [JavaScript Solutions](JavaScript/JavaScript.md)
 
