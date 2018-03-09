@@ -1,6 +1,6 @@
 # [![CodeWars](https://raw.githubusercontent.com/stephencarrera/Codewars/master/Assets/sql.png)](SQL/SQL.md) SQL
 
-[8 KYU](https://github.com/stephencarrera/Codewars/tree/master/SQL/8KYU) | [7 KYU](https://github.com/stephencarrera/Codewars/tree/master/SQL/7KYU) | [6 KYU](https://github.com/stephencarrera/Codewars/tree/master/SQL/6KYU) | [5 KYU](https://github.com/stephencarrera/Codewars/tree/master/SQL/5KYU) | [4 KYU](https://github.com/stephencarrera/Codewars/tree/master/SQL/4KYU) | [Beta](https://github.com/stephencarrera/Codewars/tree/master/SQL/Beta)
+[8 KYU](https://github.com/stephencarrera/toy-problems/tree/master/Codewars/SQL/8KYU) | [7 KYU](https://github.com/stephencarrera/toy-problems/tree/master/Codewars/SQL/7KYU) | [6 KYU](https://github.com/stephencarrera/toy-problems/tree/master/Codewars/SQL/6KYU) | [5 KYU](https://github.com/stephencarrera/toy-problems/tree/master/Codewars/SQL/5KYU) | [4 KYU](https://github.com/stephencarrera/toy-problems/tree/master/Codewars/SQL/4KYU) | [Beta](https://github.com/stephencarrera/toy-problems/tree/master/Codewars/SQL/Beta)
 
 <!-- ### <a name="8KYU">8 KYU</a>
 
